@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+bot/__init__.py
+bot/config.py
+bot/constants.py
+bot/database.py
+bot/llm.py
+bot/main.py
+bot/stt.py
+bot/telegram_handler.py
+bot/utils.py
+voice_memo_assistant.egg-info/PKG-INFO
+voice_memo_assistant.egg-info/SOURCES.txt
+voice_memo_assistant.egg-info/dependency_links.txt
+voice_memo_assistant.egg-info/entry_points.txt
+voice_memo_assistant.egg-info/requires.txt
+voice_memo_assistant.egg-info/top_level.txt
